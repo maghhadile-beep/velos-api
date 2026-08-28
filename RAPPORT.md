@@ -35,11 +35,6 @@
 
 **Ce que je retiens :** <...>
 
-![C01](captures/C01-historique.png)
-![C02](captures/C02-conflit.png)
-![C03](captures/C03-pull-request.png)
-![C04](captures/C04-tag.png)
-![C05](captures/C05-protection.png)
 
 ---
 
@@ -65,12 +60,6 @@
 
 **Ce que je retiens :** <...>
 
-![C06](captures/C06-images-taille.png)
-![C07](captures/C07-cache-mesure.png)
-![C08](captures/C08-non-root.png)
-![C09](captures/C09-pile-demarree.png)
-![C10](captures/C10-api-base.png)
-![C11](captures/C11-persistance.png)
 
 ---
 
@@ -88,13 +77,6 @@
 
 **Ce que je retiens :** <...>
 
-![C12](captures/C12-cluster.png)
-![C13](captures/C13-ressources.png)
-![C14](captures/C14-api-cluster.png)
-![C15](captures/C15-echelle.png)
-![C16](captures/C16-panne.png)
-![C17](captures/C17-mise-a-jour.png)
-![C18](captures/C18-retour-arriere.png)
 
 ---
 
@@ -116,12 +98,6 @@
 
 **Ce que je retiens :** <...>
 
-![C19](captures/C19-identifiants.png)
-![C20](captures/C20-pipeline-vert.png)
-![C21](captures/C21-declenchement.png)
-![C22](captures/C22-pipeline-rouge.png)
-![C23](captures/C23-cause-echec.png)
-![C24](captures/C24-image-deployee.png)
 
 ---
 
